@@ -1,3 +1,10 @@
 header {
     text-align: center;
 }
+td {
+    border:1px solid black;
+}
+thead tr {
+    background:#333333;
+    color:white;
+}
